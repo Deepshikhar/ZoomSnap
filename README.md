@@ -26,8 +26,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/zoomsnap.git
-cd zoomsnap
+git clone https://github.com/Deepshikhar/ZoomSnap.git
 ```
 
 ### 2. Install Dependencies
